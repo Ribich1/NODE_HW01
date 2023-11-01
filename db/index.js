@@ -1,0 +1,1 @@
+exports.dirNamePath = __dirname;
